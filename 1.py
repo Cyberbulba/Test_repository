@@ -1,0 +1,1 @@
+print('jhdhvryherveruipvjuvfrjuvfrjv'*10000)
